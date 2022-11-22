@@ -10,6 +10,7 @@
 </p>
 
 Welcome to your Remotion project!
+![Final](https://user-images.githubusercontent.com/86873911/203349815-f1f805eb-eea1-4d98-83d1-b98a5e3c3d40.gif)
 
 ## Commands
 
