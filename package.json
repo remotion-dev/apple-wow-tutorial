@@ -19,9 +19,9 @@
     "typescript": "4.6.3"
   },
   "dependencies": {
-    "@remotion/cli": "3.3.0",
+    "@remotion/cli": "3.3.18",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "remotion": "3.3.0"
+    "remotion": "3.3.18"
   }
 }
