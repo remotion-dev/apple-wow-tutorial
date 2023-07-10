@@ -1,4 +1,4 @@
-import {AbsoluteFill, Sequence, useCurrentFrame} from 'remotion';
+import {AbsoluteFill} from 'remotion';
 import React from 'react';
 import {Explosion} from './Explosion';
 import {YellowHeart} from './YellowHeart';
